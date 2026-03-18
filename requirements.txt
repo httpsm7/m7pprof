@@ -1,0 +1,4 @@
+# m7pprof requires ZERO external dependencies
+# Uses Python 3.7+ standard library only:
+#   asyncio, urllib, ssl, gzip, base64, re, json, math, concurrent.futures
+# Python >= 3.7 required
